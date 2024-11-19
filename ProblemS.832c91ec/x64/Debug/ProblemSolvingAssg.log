@@ -1,0 +1,17 @@
+﻿  ProblemSolvingAssg.cpp
+C:\Users\VICTUS\Documents\C++\ProblemSolvingAssg\ProblemSolvingAssg.cpp(2353,64): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\VICTUS\Documents\C++\ProblemSolvingAssg\ProblemSolvingAssg.cpp(2353,64): warning C4267:         with
+C:\Users\VICTUS\Documents\C++\ProblemSolvingAssg\ProblemSolvingAssg.cpp(2353,64): warning C4267:         [
+C:\Users\VICTUS\Documents\C++\ProblemSolvingAssg\ProblemSolvingAssg.cpp(2353,64): warning C4267:             _Ty=int
+C:\Users\VICTUS\Documents\C++\ProblemSolvingAssg\ProblemSolvingAssg.cpp(2353,64): warning C4267:         ]
+C:\Users\VICTUS\Documents\C++\ProblemSolvingAssg\ProblemSolvingAssg.cpp(2359,56): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\VICTUS\Documents\C++\ProblemSolvingAssg\ProblemSolvingAssg.cpp(2359,56): warning C4267:         with
+C:\Users\VICTUS\Documents\C++\ProblemSolvingAssg\ProblemSolvingAssg.cpp(2359,56): warning C4267:         [
+C:\Users\VICTUS\Documents\C++\ProblemSolvingAssg\ProblemSolvingAssg.cpp(2359,56): warning C4267:             _Ty=int
+C:\Users\VICTUS\Documents\C++\ProblemSolvingAssg\ProblemSolvingAssg.cpp(2359,56): warning C4267:         ]
+C:\Users\VICTUS\Documents\C++\ProblemSolvingAssg\ProblemSolvingAssg.cpp(2755,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\VICTUS\Documents\C++\ProblemSolvingAssg\ProblemSolvingAssg.cpp(2768,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\VICTUS\Documents\C++\ProblemSolvingAssg\ProblemSolvingAssg.cpp(2098,1): warning C4715: 'displayAvailableSlot': not all control paths return a value
+C:\Users\VICTUS\Documents\C++\ProblemSolvingAssg\ProblemSolvingAssg.cpp(2705,1): warning C4715: 'check_slot': not all control paths return a value
+C:\Users\VICTUS\Documents\C++\ProblemSolvingAssg\ProblemSolvingAssg.cpp(2814,1): warning C4715: 'check_digit': not all control paths return a value
+  ProblemSolvingAssg.vcxproj -> C:\Users\VICTUS\Documents\C++\ProblemSolvingAssg\x64\Debug\ProblemSolvingAssg.exe
