@@ -1,0 +1,138 @@
+Sally
+Lim Xin Hui
+2-Sep-2024 MON 9:00-10:00 Tattoo Consultation 1 Cancelled Pending
+Sally
+Lee Jia Shin
+2-Sep-2024 MON 10:00-11:00 Tattoo Consultation 1 Booked Working
+Sally
+Tan Xin Yu
+2-Sep-2024 MON 11:00-12:00 Tattoo Consultation 1 Booked Working
+Mark
+Siow Kai Ying
+9-Sep-2024 MON 17:00-18:00 Tattoo Consultation 1 Cancelled Pending
+Sally
+Siow Kai Ying
+4-Sep-2024 WED 16:00-17:00 Tattoo Consultation 1 Cancelled Pending
+Mary
+Siow Kai Ying
+3-Sep-2024 TUE 15:00-17:00 HairTreatment Treatment 2 Booked Working
+Sally
+Siow Kai Ying
+10-Sep-2024 FRI 10:00-12:00 Tattoo Treatment 2 Cancelled Leave
+Mark
+Tan Xin Yu
+17-Sep-2024 FRI 9:00-10:00 MakeUp Consultation 1 Booked Leave
+Mary
+Siow Kai Ying
+3-Sep-2024 TUE 11:00-12:00 MakeUp Consultation 1 Booked Leave
+Sally
+Siow Kai Ying
+5-Sep-2024 THU 17:00-18:00 Tattoo Consultation 1 Booked Leave
+Sally
+Siow Kai Ying
+6-Sep-2024 FRI 15:00-16:00 Tattoo Consultation 1 Booked Working
+Mark
+Siow Kai Ying
+6-Sep-2024 FRI 16:00-18:00 MakeUp Treatment 2 Booked Working
+Mark
+Siow Kai Ying
+13-Sep-2024 FRI 11:00-13:00 Tattoo Treatment 2 Cancelled Working
+Mark
+Siow Kai Ying
+2-Sep-2024 MON 16:00-17:00 Tattoo Consultation 1 Cancelled Working
+Mark
+Siow Kai Ying
+16-Sep-2024 MON 09:00-11:00 MakeUp Treatment 2 Booked Working
+Sally
+Siow Kai Ying
+16-Sep-2024 MON 17:00-18:00 Tattoo Consultation 1 Booked Working
+Sally
+Siow Kai Ying
+19-Sep-2024 THU 15:00-17:00 MakeUp Treatment 2 Cancelled Leave
+Mark
+Siow Kai Ying
+30-Sep-2024 MON 15:00-17:00 MakeUp Treatment 2 Booked Working
+Mary
+Tan Xin Yu
+29-Sep-2024 SUN 15:00-17:00 HairTreatment Treatment 2 Booked Leave
+Mark
+Siow Kai Ying
+18-Sep-2024 WED 15:00-17:00 MakeUp Treatment 2 Booked Working
+Mark
+Siow Kai Ying
+18-Sep-2024 WED 13:00-15:00 MakeUp Treatment 2 Booked Working
+Mark
+Siow Kai Ying
+18-Sep-2024 WED 11:00-13:00 MakeUp Treatment 2 Booked Working
+Sally
+Siow Kai Ying
+18-Sep-2024 WED 09:00-10:00 MakeUp Consultation 1 Booked Working
+Sally
+Siow Kai Ying
+19-Sep-2024 THU 09:00-10:00 MakeUp Consultation 1 Booked Working
+Mark
+Siow Kai Ying
+19-Sep-2024 THU 09:00-10:00 MakeUp Consultation 1 Booked Working
+Sally
+Lim Xin Hui
+30-Sep-2024 MON 09:00-11:00 Tattoo Treatment 0 Leave Leave
+Sally
+Lim Xin Hui
+30-Sep-2024 MON 15:00-17:00 Tattoo Treatment 2 Cancelled Pending
+Sally
+Lim Xin Hui
+30-Sep-2024 MON 11:00-12:00 Tattoo Consultation 1 Leave Leave
+Sally
+Lim Xin Hui
+30-Sep-2024 MON 17:00-18:00 Tattoo Consultation 1 Cancelled Pending
+Sally
+Lee Jia Shin
+30-Sep-2024 MON 09:00-10:00 Tattoo Consultation 1 Leave Leave
+Sally
+Lim Xin Hui
+30-Sep-2024 MON 13:00-14:00 HairTreatment Consultation 1 Leave Leave
+Sally
+Abc
+23-Sep-2024 MON 10:00-11:00 Tattoo Consultation 1 Leave Leave
+Sally
+Lokkuan
+26-Sep-2024 THU 09:00-10:00 Tattoo Consultation 1 Leave Leave
+Mark
+Lokkuan
+23-Sep-2024 MON 09:00-11:00 Tattoo Treatment 2 Booked Working
+Mary
+Lokkuan
+30-Sep-2024 MON 09:00-11:00 Tattoo Treatment 2 Cancelled Pending
+Mark
+KAi Yin
+1-Oct-2024 TUE 09:00-11:00 Tattoo Treatment 2 Booked Working
+Sally
+
+1-Oct-2024 TUE 09:00-10:00 Tattoo Consultation 0 Leave Leave
+Sally
+KAi Yin
+1-Oct-2024 TUE 10:00-11:00 Tattoo Consultation 1 Booked Working
+Sally
+KAi Yin
+1-Oct-2024 TUE 11:00-13:00 Tattoo Treatment 2 Booked Working
+Sally
+KAi Yin
+1-Oct-2024 TUE 13:00-14:00 Tattoo Consultation 1 Booked Working
+Mark
+Lee Jia Shin
+1-Oct-2024 TUE 13:00-14:00 HairTreatment Consultation 1 Cancelled Pending
+Sally
+Lo Lo
+2-Oct-2024 WED 09:00-10:00 Tattoo Consultation 1 Booked Working
+Sally
+Ka
+2-Oct-2024 WED 13:00-15:00 MakeUp Treatment 2 Booked Working
+Sally
+Ja Ja
+2-Oct-2024 WED 17:00-18:00 HairTreatment Consultation 1 Booked Working
+Sally
+Ja Ja
+2-Oct-2024 WED 10:00-11:00 Tattoo Consultation 1 Booked Working
+Mark
+Lim Xin Hui
+2-Oct-2024 WED 09:00-11:00 MakeUp Treatment 2 Booked Working
